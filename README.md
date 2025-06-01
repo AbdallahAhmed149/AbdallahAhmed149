@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 
 ### 📊 GitHub Stats
 
-![Abdallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallahAhmadTolba&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahAhmadTolba&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbdallahAhmadTolba&theme=radical)
+![Abdallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallahAhmed149&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahAhmed149&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbdallahAhmed149&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdallahAhmadTolba&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
