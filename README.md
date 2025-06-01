@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F6C?style=for-the-badge&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F6C?style=for-the-badge&logo=Seaborn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
