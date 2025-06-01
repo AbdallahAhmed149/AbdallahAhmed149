@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahAhmed149&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdallahAhmed149&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdallahAhmadTolba&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdallahAhmed149&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
