@@ -4,6 +4,12 @@
 
 Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I love exploring data, building intelligent systems, and constantly learning new technologies.
 
+- 🔭 I'm working on AI and ML projects, focusing on machine learning algorithms and data processing.
+- 🌱 I’m diving deep into Linear Algebra, Calculus, and Statistics to build a strong foundation for AI.
+- 👯 I’m looking to collaborate on open-source AI/ML projects or coding challenges.
+- 🥅 2025 Goals: Complete a major AI project or secure an AI internship
+- ⚡ Fun fact: I enjoy solving complex coding puzzles
+
 ---
 
 ### 🔧 Languages and Tools I Use
